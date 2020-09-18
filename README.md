@@ -1,5 +1,7 @@
 ### Konstadinos Angelis 👋
 
+*angeliskonstadinos@gmail.com*
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/konstadinos/)](https://www.linkedin.com/in/konstadinos/)
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/KonstadinosAngelis?tab=following)
 
