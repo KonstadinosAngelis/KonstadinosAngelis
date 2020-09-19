@@ -14,8 +14,4 @@
 <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://img.favpng.com/12/16/8/python-programming-basics-for-absolute-beginners-programming-language-computer-programming-scripting-language-png-favpng-tzCaYdL2pH32nkgujyzGg5qxM.jpg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-
 ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=KonstadinosAngelis&show_icons=true&line_height=30)
